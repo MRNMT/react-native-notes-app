@@ -25,7 +25,7 @@ A feature-rich mobile notes application built with React Native and Expo. Create
 ## Project Structure 📁
 
 ```
-NotesApp/
+react-native-notes-app/
 ├── src/
 │   ├── screens/
 │   │   ├── Auth/
@@ -76,7 +76,7 @@ NotesApp/
 
    ```bash
    git clone <repository-url>
-   cd NotesApp
+   cd react-native-notes-app
    ```
 
 2. **Install dependencies**
@@ -247,3 +247,4 @@ For issues, questions, or suggestions, please open an issue on the project repos
 - Note creation, editing, and deletion
 - Category organization
 - User profile management
+
